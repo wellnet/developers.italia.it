@@ -1,14 +1,13 @@
 ---
 title: Qual è l'obiettivo di questo sito?
 text: >
-  Aiutare tutti gli sviluppatori ad integrare ed utilizzare i principali progetti tecnologici centrali italiani. Fino
-  ad oggi, con rare eccezioni, la pubblica amministrazione centrale scriveva solo regole tecniche, in un linguaggio da
-  avvocati e non tecnico, lasciando chi deve implementare queste regole completamente abbandonati a se stessi. Pensate
-  per esempio a quanto è difficile ancora oggi trovare del semplice codice sorgente per produrre una fattura elettronica.
-  All'interno, troverete quindi un numero sempre crescente di progetti e API (come SPID, PagoPA, Fattura Elettronica, ecc.)
-  per i quali ci impegniamo a fare ciò che è necessario per semplificarne l'adozione: riscriveremo la documentazione in linguaggio
-  tecnico, forniremo ambienti di validazione, esempi, SDK già pronti per i principali linguaggi e framework. Forniremo loro
-  supporto diretto via forum e email, invece che tramite call-center telefonico.
+  Aiutare tutti gli sviluppatori ad integrare ed utilizzare i principali progetti tecnologici della Pubblica Amministrazione italiana come ad esempio SPID, il sistema per la gestione dell'identità digitale degli italiani o ANPR, il progetto per creare un'anagrafe unica nazionale. 
+  Vogliamo creare un ambiente di collaborazione e di lavoro basato su strumenti moderni e open per gestire la documentazione, il codice, segnalare bug e confrontarsi.
+  Ad oggi, con rare eccezioni, la Pubblica Amministrazione si limitava a scrivere leggi e regole, in un linguaggio burocratico e non tecnico, lasciando chi deve attuare queste regole completamente abbandonato a se stessi. Pensate
+  per esempio a quanto sia difficile ancora oggi trovare del semplice codice sorgente per produrre una fattura elettronica.
+  All'interno del sito troverete quindi un certo numero di progetti, destinato ad ampliarsi nei prossimi mesi intorno ai quali vogliamo fare community partendo dalle basi: riscriveremo la documentazione in linguaggio
+  tecnico in un ambiente creato a partire dal progetto open source **Read the Docs**; forniremo ambienti di validazione, esempi, SDK già pronti per i principali linguaggi e framework. Forniremo
+  supporto diretto via forum e email, invece che tramite call-center telefonico. Il nostro [forum](https://forum.developers.italia.it/t/), sviluppato utilizzando il progetto open source **Discourse** è a vostra disposizione.
 order: 1
 lang: it
 ---
